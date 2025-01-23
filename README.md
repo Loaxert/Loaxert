@@ -49,7 +49,7 @@ I'm an engineering student currently focused in the field of cybersecurity and m
     <img src="https://skillicons.dev/icons?i=neovim" height="30" alt="neovim logo" />
   </a>
   <a href="https://www.kali.org" target="_blank">
-    <img src="https://www.svgrepo.com/show/330767/kalilinux.svg" height="30" alt="Kali OS logo" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kali-dragon-icon.svg/2048px-Kali-dragon-icon.svg.png" height="30" alt="Kali OS logo" />
   </a>
 </div>
 
