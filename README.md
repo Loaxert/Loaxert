@@ -12,7 +12,6 @@
 <picture>
   <img align="right" src="https://github.com/d3vjh/d3vjh/blob/main/Resources/Gisac.gif" width="250px">
 </picture>
-&nbsp;
 
 &nbsp;
 
@@ -23,6 +22,12 @@
 &nbsp;
 
 &nbsp;
+
+<a href="https://app.hackthebox.com/profile/1952911" target="_blank">
+    <img src="https://www.hackthebox.com/badge/image/1952911" alt="Hack The Box">
+</a>
+  
+
 
 ---
 
