@@ -48,6 +48,9 @@ I'm an engineering student currently focused in the field of cybersecurity and m
   <a href="https://neovim.io/doc/" target="_blank">
     <img src="https://skillicons.dev/icons?i=neovim" height="30" alt="neovim logo" />
   </a>
+  <a href="https://www.kali.org" target="_blank">
+    <img src="https://www.svgrepo.com/show/330767/kalilinux.svg" height="30" alt="Kali OS logo" />
+  </a>
 </div>
 
 ---
