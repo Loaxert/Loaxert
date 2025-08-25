@@ -16,7 +16,7 @@
 &nbsp;
 
 - 🚀 I'm passionate about Hack the box machines.
-- 📚 Currently learning **NetExec** and **Impacket**.
+- 📚 I am currently preparing to present the CJCA and the CPTS.
 - 🤝 Open for **collaborations**.
 - 🎓 Systems Engineering Student at Francisco José de Caldas District University.
 - 👨🏻‍💻 Hack The Box Meetup Host in Bogotá, Colombia.
